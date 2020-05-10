@@ -1,2 +1,2 @@
-# micro-service-dubbo
+# brief
 micro service dubbo
